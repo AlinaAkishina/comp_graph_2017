@@ -42,7 +42,7 @@ function init() {
         ctx.save();
         
         ctx.beginPath();
-        ctx.strokeStyle = "rgba(46, 154, 32, 1)";
+        ctx.strokeStyle = "rgba(146, 154, 32, 1)";
         ctx.lineWidth = 8;
         ctx.moveTo(0, 0);
         ctx.lineTo(100, 0);
